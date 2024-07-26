@@ -1,4 +1,4 @@
-# asset data with regime specific risk values
+# Asset data with regime specific correlations
 
 We consider 15 different asset classes with
 - expected returns ranging from 2% to 11%, 
